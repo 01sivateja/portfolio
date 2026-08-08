@@ -5,8 +5,8 @@ import { Briefcase, Calendar } from 'lucide-react'
 const experiences = [
     {
         id: 1,
-        title: 'AI/ML Engineer',
-        company: 'BlackRock | New York, NY',
+        title: 'ML Engineer',
+        company: 'BNY | pittsburg, PA',
         period: 'Feb 2024 - Present',
         description:
             'Built end-to-end ML pipelines for anomaly detection, LLM-powered knowledge search features, OCR document intelligence workflows, and real-time inference services.',
@@ -14,7 +14,7 @@ const experiences = [
     },
     {
         id: 2,
-        title: 'AI/ML Engineer',
+        title: 'ML Engineer',
         company: 'Bank of Baroda | India',
         period: 'May 2021 - Jul 2023',
         description:
